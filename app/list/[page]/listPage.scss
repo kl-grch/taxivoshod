@@ -1,0 +1,9 @@
+.list-page {
+  &__elements {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}
